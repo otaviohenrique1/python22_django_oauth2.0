@@ -6,7 +6,6 @@ Projeto do curso "Django autenticação com OAuth2.0" da Alura
 
 - [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
-- [Django Rest Framework](https://www.django-rest-framework.org/)
 
 ## Comandos
 
